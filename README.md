@@ -15,3 +15,9 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 - Percentage of Total Orders delivered.
 - Dashboard Interaction <a href="https://github.com/PinkiMurmu/Data-Analysis-Dashboard/blob/main/Dashboard.png">View Dashboard</a>
 ## Process
+- Verify data for any missing values and anomalies, and sort out the same.
+- Make sure data is consistent and clean with respect to data type, data format and values used.
+- Created pivot tables according to the questions asked.
+- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+## Dashboard
+<img width="1261" height="595" alt="Dashboard" src="https://github.com/user-attachments/assets/8b68855b-526f-426c-bd2c-9db2906ddb75" />
